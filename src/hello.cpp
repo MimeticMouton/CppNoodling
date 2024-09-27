@@ -1,5 +1,4 @@
 #include <iostream>
-
 // build with: `clang++ src/hello.cpp -o bin/hello.cpp.out`
 
 int main (int argc, char** argv)
